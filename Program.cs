@@ -30,3 +30,16 @@
 //     break;
 // }
 // System.Console.WriteLine($"Пропущено {skip_ticket}");
+
+// int N = 5;
+// System.Console.WriteLine($"Нечётные числа c 1 до {N}");
+// for (int i = 1; i <= N; i += 2)
+// {
+//     System.Console.WriteLine(i);
+// }
+// for (int i = 100; i >= 0; i -= 10)
+// {
+//     System.Console.WriteLine(i);
+// }
+
+
